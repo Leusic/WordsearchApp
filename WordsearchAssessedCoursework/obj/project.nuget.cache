@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X++gYYCIGWKzUwCCVUE/t3VjTkc0ews70w5TbfxAxbeDV6kmfBrK8doyUvs/pee7U3uT5RaW2cxJUhd8MjAadA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Documents\\University Backup\\Introduction to Programming and Algorithmic Thinking\\wordsearch-assessed-coursework-Leusic\\WordsearchAssessedCoursework\\WordsearchAssessedCoursework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
